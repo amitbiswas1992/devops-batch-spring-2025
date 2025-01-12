@@ -1,8 +1,8 @@
-# File System and Command Line Commands Guide
 
-This repository provides a comprehensive guide to essential file system and command-line commands for **Windows**, **macOS**, and **Linux**. It includes explanations and usage examples to help users effectively navigate, automate, and manage their systems using the terminal or command prompt.
 
----
+### DevOps Guide - Batch String 2025 
+
+
 
 ## **Commands Covered**
 
