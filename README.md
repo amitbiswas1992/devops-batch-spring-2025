@@ -2,6 +2,8 @@
 
 ### DevOps Guide - Batch String 2025 
 
+### Python 30 Days Guide + Practice Resources 
+[Python in 30 Days](https://github.com/Asabeneh/30-Days-Of-Python/)
 
 
 ## **Commands Covered**
