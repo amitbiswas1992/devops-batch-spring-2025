@@ -1,6 +1,61 @@
 
 
-### DevOps Guide - Batch String 2025 
+## DevOps Guide - Batch String 2025 
+
+#### DevOps Learning Resources 🚀
+
+Welcome to my curated list of DevOps resources! This repository serves as a hub for all the tools, courses, blogs, and guides I've explored and found valuable in my DevOps journey.
+
+## Table of Contents 📚
+1. [Introduction to DevOps](#introduction-to-devops)
+2. [Tools and Technologies](#tools-and-technologies)
+3. [Courses and Certifications](#courses-and-certifications)
+4. [Books](#books)
+5. [Blogs and Websites](#blogs-and-websites)
+6. [YouTube Channels](#youtube-channels)
+7. [Cheat Sheets and Guides](#cheat-sheets-and-guides)
+8. [Communities and Forums](#communities-and-forums)
+9. [Projects and Hands-On Practice](#projects-and-hands-on-practice)
+
+---
+
+## Introduction to DevOps
+> **What is DevOps?**  
+> DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to shorten the development lifecycle while delivering features, fixes, and updates frequently and reliably.
+
+---
+
+## Tools and Technologies 🛠️
+Here’s a list of essential DevOps tools and platforms:
+- **Version Control**: [Git](https://git-scm.com), [GitHub](https://github.com)
+- **CI/CD**: [Jenkins](https://www.jenkins.io), [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
+- **Containerization**: [Docker](https://www.docker.com), [Podman](https://podman.io)
+- **Orchestration**: [Kubernetes](https://kubernetes.io), [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
+- **Infrastructure as Code**: [Terraform](https://www.terraform.io), [Ansible](https://www.ansible.com)
+- **Monitoring and Logging**: [Prometheus](https://prometheus.io), [Grafana](https://grafana.com), [ELK Stack](https://www.elastic.co/what-is/elk-stack)
+- **Cloud Platforms**: [AWS](https://aws.amazon.com), [Azure](https://azure.microsoft.com), [Google Cloud](https://cloud.google.com)
+
+---
+
+## Courses and Certifications 🎓
+- **Beginner Courses**:
+  - [DevOps for Beginners (Udemy)](https://www.udemy.com)
+  - [Introduction to DevOps (Coursera)](https://www.coursera.org)
+- **Advanced Courses**:
+  - [Certified Kubernetes Administrator (CKA) by Linux Foundation](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
+  - [AWS Certified DevOps Engineer](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
+- **Certifications**:
+  - [AWS Certified DevOps Engineer](https://aws.amazon.com/certification/)
+  - [Google Professional DevOps Engineer](https://cloud.google.com/certification)
+
+---
+
+## Books 📘
+- *The Phoenix Project* by Gene Kim
+- *The DevOps Handbook* by Gene Kim, Patrick Debois, John Willis, and Jez Humble
+- *Site Reliability Engineering* by Google SRE Team
+- *Kubernetes Up & Running* by Brendan Burns, Joe Beda, and Kelsey Hightower
+
 
 ### Python 30 Days Guide + Practice Resources 
 [Python in 30 Days](https://github.com/Asabeneh/30-Days-Of-Python/)
@@ -183,66 +238,6 @@ cd ..
 rmdir DemoFolder /s /q
 echo All tasks completed!
 pause
-
-
-
-# DevOps Learning Resources 🚀
-
-Welcome to my curated list of DevOps resources! This repository serves as a hub for all the tools, courses, blogs, and guides I've explored and found valuable in my DevOps journey.
-
----
-
-## Table of Contents 📚
-1. [Introduction to DevOps](#introduction-to-devops)
-2. [Tools and Technologies](#tools-and-technologies)
-3. [Courses and Certifications](#courses-and-certifications)
-4. [Books](#books)
-5. [Blogs and Websites](#blogs-and-websites)
-6. [YouTube Channels](#youtube-channels)
-7. [Cheat Sheets and Guides](#cheat-sheets-and-guides)
-8. [Communities and Forums](#communities-and-forums)
-9. [Projects and Hands-On Practice](#projects-and-hands-on-practice)
-
----
-
-## Introduction to DevOps
-> **What is DevOps?**  
-> DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to shorten the development lifecycle while delivering features, fixes, and updates frequently and reliably.
-
----
-
-## Tools and Technologies 🛠️
-Here’s a list of essential DevOps tools and platforms:
-- **Version Control**: [Git](https://git-scm.com), [GitHub](https://github.com)
-- **CI/CD**: [Jenkins](https://www.jenkins.io), [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
-- **Containerization**: [Docker](https://www.docker.com), [Podman](https://podman.io)
-- **Orchestration**: [Kubernetes](https://kubernetes.io), [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
-- **Infrastructure as Code**: [Terraform](https://www.terraform.io), [Ansible](https://www.ansible.com)
-- **Monitoring and Logging**: [Prometheus](https://prometheus.io), [Grafana](https://grafana.com), [ELK Stack](https://www.elastic.co/what-is/elk-stack)
-- **Cloud Platforms**: [AWS](https://aws.amazon.com), [Azure](https://azure.microsoft.com), [Google Cloud](https://cloud.google.com)
-
----
-
-## Courses and Certifications 🎓
-- **Beginner Courses**:
-  - [DevOps for Beginners (Udemy)](https://www.udemy.com)
-  - [Introduction to DevOps (Coursera)](https://www.coursera.org)
-- **Advanced Courses**:
-  - [Certified Kubernetes Administrator (CKA) by Linux Foundation](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
-  - [AWS Certified DevOps Engineer](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
-- **Certifications**:
-  - [AWS Certified DevOps Engineer](https://aws.amazon.com/certification/)
-  - [Google Professional DevOps Engineer](https://cloud.google.com/certification)
-
----
-
-## Books 📘
-- *The Phoenix Project* by Gene Kim
-- *The DevOps Handbook* by Gene Kim, Patrick Debois, John Willis, and Jez Humble
-- *Site Reliability Engineering* by Google SRE Team
-- *Kubernetes Up & Running* by Brendan Burns, Joe Beda, and Kelsey Hightower
-
----
 
 ## Blogs and Websites 📝
 - [AWS Blog](https://aws.amazon.com/blogs/)
