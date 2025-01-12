@@ -41,9 +41,9 @@ This repository provides a comprehensive guide to essential file system and comm
 - `kill` (macOS/Linux) - Terminate a process.
 - `top` (macOS/Linux) - Display system performance and running processes.
 
-### **Networking**
 
-# Networking for DevOps Engineers
+
+### Networking for DevOps Engineers
 
 Welcome to the **Networking for DevOps Engineers** documentation! This guide provides an overview of essential networking concepts, tools, and practical examples tailored for DevOps professionals.
 
@@ -159,10 +159,7 @@ Master essential tools for DevOps networking:
 ---
 
 
-
----
-
-## **Examples**
+### **Examples**
 
 ### **Windows Batch Script Example**
 A simple batch script demonstrating Windows commands:
