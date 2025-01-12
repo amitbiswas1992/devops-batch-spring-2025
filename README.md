@@ -42,9 +42,123 @@ This repository provides a comprehensive guide to essential file system and comm
 - `top` (macOS/Linux) - Display system performance and running processes.
 
 ### **Networking**
-- `ping` - Test connectivity to a host.
-- `curl` - Make HTTP requests.
-- `wget` - Download files from the web.
+
+# Networking for DevOps Engineers
+
+Welcome to the **Networking for DevOps Engineers** documentation! This guide provides an overview of essential networking concepts, tools, and practical examples tailored for DevOps professionals.
+
+## **Table of Contents**
+1. [Introduction](#introduction)
+2. [Key Topics Covered](#key-topics-covered)
+3. [How to Use This Document](#how-to-use-this-document)
+4. [Networking Concepts](#networking-concepts)
+   - [OSI Model](#1-osi-model)
+   - [Networking Protocols](#2-networking-protocols)
+   - [IP Addressing](#3-what-is-an-ip-address)
+   - [Ports](#4-ports)
+   - [Subnetting](#5-subnetting)
+   - [Routing](#6-routing)
+   - [DNS](#7-dns-domain-name-system)
+   - [VPN](#8-vpn-virtual-private-network)
+5. [Networking Tools](#9-networking-tools)
+6. [Advanced Networking Topics](#advanced-networking-topics)
+7. [Practical Scenarios](#practical-scenarios)
+8. [Resources](#resources)
+
+---
+
+## **Introduction**
+This guide is designed to help DevOps engineers understand and implement networking principles effectively. Whether you're troubleshooting connectivity issues, configuring cloud infrastructure, or ensuring secure communication, these concepts are foundational.
+
+---
+
+## **Key Topics Covered**
+- OSI Model
+- TCP, UDP, and IP Protocols
+- IP Addressing (IPv4 and IPv6)
+- Ports and Port Forwarding
+- Subnetting and CIDR Notation
+- Routing and NAT
+- DNS Configuration
+- VPN for Secure Communication
+- Essential Networking Tools
+- Firewalls and Load Balancers
+
+---
+
+## **How to Use This Document**
+1. **Learning**: Use this guide as a reference for understanding networking concepts step-by-step.
+2. **Practical Applications**: Implement the provided examples in your daily DevOps workflows.
+3. **Troubleshooting**: Refer to specific sections to resolve network-related issues in cloud or local environments.
+
+---
+
+## **Networking Concepts**
+### **1. OSI Model**
+- Learn about the 7 layers of the OSI model and their roles in networking.
+- [Detailed Explanation](https://www.geeksforgeeks.org/open-systems-interconnection-model-osi/)
+
+### **2. Networking Protocols**
+- Understand TCP, UDP, and IP protocols with real-world examples.
+- Learn the differences between connection-oriented (TCP) and connectionless (UDP) communication.
+
+### **3. What is an IP Address?**
+- Learn about IPv4 and IPv6 addressing formats (e.g., `123.123.1.231`).
+- Understand private vs public IP addresses and their uses.
+
+### **4. Ports**
+- Explore the role of ports in networking and their importance for DevOps tasks.
+- Examples: Ports 80 (HTTP), 443 (HTTPS), and 22 (SSH).
+
+### **5. Subnetting**
+- Dive into subnetting and CIDR notation to manage IP spaces efficiently.
+
+### **6. Routing**
+- Understand how routing works and how to configure routing tables for cloud and local networks.
+
+### **7. DNS (Domain Name System)**
+- Learn how DNS translates domain names into IP addresses and vice versa.
+
+### **8. VPN (Virtual Private Network)**
+- Explore how VPNs create secure communication tunnels over the internet.
+
+---
+
+## **9. Networking Tools**
+Master essential tools for DevOps networking:
+- `ping`: Test connectivity.
+- `traceroute`: Track the path of packets.
+- `netstat`: View active network connections.
+- `nmap`: Discover hosts and services.
+- `tcpdump`: Capture and analyze network traffic.
+- `Wireshark`: Visualize and troubleshoot network interactions.
+
+---
+
+## **Advanced Networking Topics**
+1. **Network Address Translation (NAT)**: Map private IPs to public IPs for internet access.
+2. **Load Balancing**: Distribute traffic across multiple servers for redundancy.
+3. **Firewalls**: Secure networks by controlling incoming and outgoing traffic.
+
+---
+
+## **Practical Scenarios**
+1. Configuring CI/CD pipelines for secure artifact deployments across regions.
+2. Troubleshooting Docker container communication issues.
+3. Setting up secure VPN access to remote cloud environments.
+
+---
+
+## **Resources**
+- [OSI Model Explanation](https://www.geeksforgeeks.org/open-systems-interconnection-model-osi/)
+- [TCP/UDP Basics](https://www.pluralsight.com/blog/it-ops/networking-basics-tcp-udp-tcpip-osi-models)
+- [Subnetting Video Tutorial](https://youtu.be/I_LXaIg6mkM?si=H71TnHbE8oOVfMzp)
+- [Cloudflare - What is a Port?](https://www.cloudflare.com/en-in/learning/network-layer/what-is-a-computer-port/)
+- [Top Networking Tools for DevOps](https://www.geeksforgeeks.org/top-15-networking-tools-that-you-must-know-as-a-devops-engineer/)
+
+---
+
+
 
 ---
 
