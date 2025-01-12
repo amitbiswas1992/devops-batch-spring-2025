@@ -16,8 +16,7 @@ Welcome to my curated list of DevOps resources! This repository serves as a hub 
 7. [Cheat Sheets and Guides](#cheat-sheets-and-guides)
 8. [Communities and Forums](#communities-and-forums)
 9. [Projects and Hands-On Practice](#projects-and-hands-on-practice)
-
----
+10. [Ultimate System Desgin Guide](https://medium.com/@shivambhadani_/system-design-for-beginners-everything-you-need-in-one-article-c74eb702540b)
 
 ## Introduction to DevOps
 > **What is DevOps?**  
